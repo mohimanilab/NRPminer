@@ -1,0 +1,13 @@
+#sequence-id<tab>8A-signature<tab>stachelhaus-code<tab>3class-pred<tab>large-class-pred<tab>small-class-pred<tab>single-class-pred<tab>nearest stachelhaus code<tab>NRPS1pred-large-class-pred<tab>NRPS2pred-large-class-pred<tab>outside applicability domain?<tab>coords<tab>pfam-score
+nrpspksdomains_ctg25_1_AMP-binding.1	LG-AFDAS-WDLDVVVGGEVNLYGPTETTVDAYY	DAWDVGLVDK	hydrophobic-aliphatic	ser,thr,dhpg,hpg	N/A	N/A	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_40_AMP-binding.1	FSMTFDIAALELQALVGGETNLYGPTETTIWSTA	DILQLGLIWK	hydrophobic-aliphatic	gly,ala,val,leu,ile,abu,iva	gly,ala	gly	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_40_AMP-binding.2	LWYVFDPTILEALVLTGADVNQYGPTEITVLATA	DPLLLGQVLK	hydrophobic-aliphatic	gly,ala,val,leu,ile,abu,iva	val,leu,ile,abu,iva	N/A	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_41_AMP-binding.1	L--AFDAATFEGFLLVGGEVNIYGPTETTTFATF	DAFFLGITFK	hydrophobic-aliphatic	gly,ala,val,leu,ile,abu,iva	val,leu,ile,abu,iva	ile	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_41_AMP-binding.2	AW-AFDVFVSDHETVVGSDLNSYGVTEATVESSV	DVSEVGSVEK	hydrophilic	orn,lys,arg	N/A	N/A	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_41_AMP-binding.3	LR-AFDAS-WNLQTALGGEFNFYGPTEATVDALI	DAWQAGFVDK	N/A	N/A	N/A	N/A	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_42_AMP-binding.1	MASSFDGAVWETSLLAVGDINGYGPTENSVGATM	DGWSLVGVGK	hydrophobic-aromatic	phe,trp,phg,tyr,bht	phe,trp	phe	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_56_AMP-binding.1	L--SWDGSLLLHAAILGGERNEYGPTEATVGVIA	DGLAIGEVGK	hydrophilic	asp,asn,glu,gln,aad	N/A	N/A	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_58_AMP-binding.1	FWSTFDMSVFEVNTVFCGEHNIYGPTEVTVYATS	DMFNVCIVYK	hydrophobic-aliphatic	gly,ala,val,leu,ile,abu,iva	gly,ala	ala	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_58_AMP-binding.2	VSTAFDAGLIDECLRCGGEVNAYGPTEATVAATT	DAICRGAVAK	hydrophobic-aliphatic	N/A	N/A	N/A	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_59_AMP-binding.1	LHSHFDFSVWEGNQVFGGEVNMYGITETTVHVTD	DFWNVGMVHK	hydrophobic-aliphatic	ser,thr,dhpg,hpg	thr	thr	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg25_59_AMP-binding.2	R--SWDTTVYEMWLSTGGDANLYGPVENTTFSLG	DTYWSGLTFK	hydrophobic-aliphatic	gly,ala,val,leu,ile,abu,iva	val,leu,ile,abu,iva	N/A	N/A	N/A	N/A	0	0:0	0.000000e+00
