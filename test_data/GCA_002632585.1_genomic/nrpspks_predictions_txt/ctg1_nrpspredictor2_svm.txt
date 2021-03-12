@@ -1,0 +1,7 @@
+#sequence-id<tab>8A-signature<tab>stachelhaus-code<tab>3class-pred<tab>large-class-pred<tab>small-class-pred<tab>single-class-pred<tab>nearest stachelhaus code<tab>NRPS1pred-large-class-pred<tab>NRPS2pred-large-class-pred<tab>outside applicability domain?<tab>coords<tab>pfam-score
+nrpspksdomains_ctg1_1210_AMP-binding.1	CGFTFDISVLELQALCGGEWNVYGPTETTIWSTA	DILQLGVIWK	hydrophobic-aliphatic	gly,ala,val,leu,ile,abu,iva	gly,ala	gly	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg1_1338_AMP-binding.1	EWLAHLYGTFRLIS---GK-------------CH	LYFI-----K	hydrophobic-aliphatic	N/A	N/A	N/A	N/A	N/A	N/A	1	0:0	0.000000e+00
+nrpspksdomains_ctg1_1728_AMP-binding.1	QLHLFERA-WSVSQLLGGQKYGYGMTETCATVSC	ERWSLGGATK	hydrophilic	N/A	N/A	N/A	N/A	N/A	N/A	1	0:0	0.000000e+00
+nrpspksdomains_ctg1_1821_AMP-binding.1	SGEIHVAASEALFTISGGEWPGFGMTETCAGSIY	VAEFIGGAGK	hydrophilic	N/A	N/A	N/A	N/A	N/A	N/A	1	0:0	0.000000e+00
+nrpspksdomains_ctg1_1898_AMP-binding.1	QN-AFDVAIWEGQVITGGEYHFYGPTEAVIDTSY	DVWQIGFIDK	N/A	N/A	N/A	N/A	N/A	N/A	N/A	0	0:0	0.000000e+00
+nrpspksdomains_ctg1_1898_AMP-binding.2	LN-NFDISTWEAYLVVGGEINAYGPTEVTCSSAW	DIWYVGACSK	hydrophobic-aliphatic	gly,ala,val,leu,ile,abu,iva	N/A	N/A	N/A	N/A	N/A	0	0:0	0.000000e+00
