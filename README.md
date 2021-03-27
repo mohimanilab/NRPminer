@@ -89,6 +89,18 @@ Submit job and check email for notifications.
 
 ![alt text](docs/images/GNPS_submit.png "Job submission")
 
+### Viewing results
+
+### Step 1
+If the job finishes correctly, its status becomes "Done". To open NRPminer report with discovered NRPs, click on the "View All PSMs" link in the status pane. Feel free to check results of [our sample job](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=6ad7a36c0ef84398b4d3854fced078ae) on the szentiamide data.
+
+![alt text](docs/images/GNPS_job_done.png "Job done")
+
+### Step 2
+The NRPminer report is a filterable table that includes information on exact spectra scan and genomic location corresponding to each discovered NRP. The report column names are self-explanatory. Note that only hits with P-values below user-defined thresholds are reported (default value is 1.0e-20).
+
+![alt text](docs/images/GNPS_NRPminer_report.png "NRPminer report")
+
 ## Feedback
 If you have any questions regarding NRPminer or wish to report a bug, please write to [hoseinm@andrew.cmu.edu](hoseinm@andrew.cmu.edu) or [post a GitHub issue](https://github.com/mohimanilab/NRPminer/issues).
 
