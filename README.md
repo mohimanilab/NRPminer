@@ -102,7 +102,8 @@ The NRPminer report is a filterable table that includes information on exact spe
 ![alt text](docs/images/GNPS_NRPminer_report.png "NRPminer report")
 
 ## Feedback
-If you have any questions regarding NRPminer or wish to report a bug, please write to [hoseinm@andrew.cmu.edu](hoseinm@andrew.cmu.edu) or [post a GitHub issue](https://github.com/mohimanilab/NRPminer/issues).
+If you have any questions regarding NRPminer or wish to report a bug, please write to [Hosein Mohimani](mailto:hoseinm@andrew.cmu.edu) or [Bahar Behsaz](mailto:bbehsaz@andrew.cmu.edu).
+For issues with the GNPS workflow, please contact [Alexey Gurevich](mailto:alexey.gurevich@helmholtz-hips.de). In either case, feel free to [post a GitHub issue](https://github.com/mohimanilab/NRPminer/issues).
 
 
 
